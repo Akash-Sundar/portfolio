@@ -1,5 +1,6 @@
 proj_name,project_category,project_url,project_date,thumbnail_img,banner_img,tech_stack,project_description,,,,,,,,
 Text-Driven Dynamic Virtual Backgrounds for Video Calls,ML / CV,Text-driven-Virtual-Background,Oct 2023 - Dec 2023,assets/deep-image-colorization.png,assets/deep-image-colorization.png,Python | PyTorch,,,,,,,,,
+Advanced Spoiler Detection on Large-Scale Text Reviews,ML,Advanced-Spoiler-Detection,Oct 2022 - Dec 2022,assets/deep-image-colorization.png,assets/deep-image-colorization.png,Python | PyTorch,,,,,,,,,
 Deep Image Colorization using Transfer Learning,ML / CV,deep-image-colorization,Dec 21,assets/deep-image-colorization.png,assets/deep-image-colorization.png,Python | PyTorch,,,,,,,,,
 Obstacle Avoidance Trajectory Planner and Controller for Quadrotor,Robotics,advanced_robotics_1,May 22,assets/waypoints.png,assets/waypoints.png,Python,,,,,,,,,
 YOLO (You Look Only Once),ML / CV,YOLO,Dec 22,assets/yolo_main.png,assets/yolo_pred.png,Python | PyTorch,,,,,,,,,
